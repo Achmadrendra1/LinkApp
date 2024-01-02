@@ -1,6 +1,6 @@
 ---
 name: Achmad Rendra Artama
-avatar: /eddy.d1fa7081_ZjeWWy.svg
+avatar: /images/eddy.d1fa7081_ZjeWWy.svg
 ---
 
-Fullstack Developer
+Fullstack Developer Node.js
