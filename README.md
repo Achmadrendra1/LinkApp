@@ -1,12 +1,12 @@
 # 🔗 LinkApp 🔗
 
-<!-- LTree is a free and open-source theme for [Astro](https://astro.build). It's a result of exploring how to build a clone of Linkinbio and Linktree, rolled into one, using Astro. Blog post here -> https://darko.io/posts/linktree-and-linkinbio-clone-with-astro-and-tinacms.
+<!-- LTree is a free and open-source theme for [Astro](https://astro.build). It's a result of exploring how to build a clone of Linkinbio and Linktree, rolled into one, using Astro. Blog post here -> https://darko.io/posts/linktree-and-linkinbio-clone-with-astro-and-tinacms. -->
 
-### [[Demo here](https://ltree.darko.io)]
+### [[Demo here](https://link-app.ren-project.my.id/)]
 
-<img style="" src="./theme_1.png" />
+<img style="" src="./Dekstop.png" />
 
-<img style="" src="./theme_2.png" /> -->
+<img style="" src="./Mobile.png" />
 
 ## Quickstart
 

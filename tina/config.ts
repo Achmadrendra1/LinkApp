@@ -21,7 +21,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "images",
       publicFolder: "public",
     },
   },
@@ -55,43 +55,43 @@ export default defineConfig({
           },
         ],
       },
-      {
-        name: "post",
-        label: "Posts",
-        path: "src/content/posts",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "string",
-            name: "description",
-            label: "Description",
-          },
-          {
-            type: "string",
-            name: "url",
-            label: "URL",
-            required: true,
-          },
-          {
-            type: "image",
-            name: "image",
-            label: "Image",
-            required: true,
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Publish Date",
-            required: true,
-          },
-        ],
-      },
+      // {
+      //   name: "post",
+      //   label: "Posts",
+      //   path: "src/content/posts",
+      //   fields: [
+      //     {
+      //       type: "string",
+      //       name: "title",
+      //       label: "Title",
+      //       isTitle: true,
+      //       required: true,
+      //     },
+      //     {
+      //       type: "string",
+      //       name: "description",
+      //       label: "Description",
+      //     },
+      //     {
+      //       type: "string",
+      //       name: "url",
+      //       label: "URL",
+      //       required: true,
+      //     },
+      //     {
+      //       type: "image",
+      //       name: "image",
+      //       label: "Image",
+      //       required: true,
+      //     },
+      //     {
+      //       type: "datetime",
+      //       name: "date",
+      //       label: "Publish Date",
+      //       required: true,
+      //     },
+      //   ],
+      // },
       {
         name: "link",
         label: "Links",
